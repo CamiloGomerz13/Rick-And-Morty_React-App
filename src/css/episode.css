@@ -1,0 +1,22 @@
+.episodeContainer {
+    border: solid;
+    border-color: rgba(119, 118, 118, 0.664);
+    border-radius: 10px;
+    border-width: 2px;
+    height: 93px;
+    width: 136px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.epiT{
+    font-size: 17px;
+    font-weight: bold;
+    padding: 12px;
+}
+
+.subAd{
+    font-size: 12px;
+}
