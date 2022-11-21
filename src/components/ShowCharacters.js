@@ -29,7 +29,6 @@ function ShowCharacters(action = String) {
     }
 
     useEffect(() => {
-        console.log(url+action.action);
         GetAllCharacters(url);
     }, []);
 

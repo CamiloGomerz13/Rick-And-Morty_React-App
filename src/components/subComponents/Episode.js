@@ -18,7 +18,6 @@ export const Episode = (episodes = []) => {
                 setEpisode(data);
             })
             .catch(error => console.log(error))
-        console.log(episode)
     }
     useEffect(() => {
         GetEpisodeCharacter(url);

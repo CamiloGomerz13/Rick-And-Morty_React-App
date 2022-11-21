@@ -22,7 +22,6 @@ export default function NavigationBar() {
     //     }else{
     //         status="";
     //     }
-    //     console.log(status);
     // };
 
     return (
